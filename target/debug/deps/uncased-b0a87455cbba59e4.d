@@ -1,0 +1,11 @@
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\libuncased-b0a87455cbba59e4.rmeta: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\libuncased-b0a87455cbba59e4.rlib: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\uncased-b0a87455cbba59e4.d: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs
+
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\lib.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\serde.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\owned.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\borrowed.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uncased-0.9.10\src\as_uncased.rs:

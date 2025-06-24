@@ -1,0 +1,12 @@
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\libstate-a991e5a43fb1cabc.rmeta: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\libstate-a991e5a43fb1cabc.rlib: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Users\truon\Rust\hands-on-webapi-truongc23\target\debug\deps\state-a991e5a43fb1cabc.d: C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs
+
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\lib.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\ident_hash.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\cell.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\init.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\shim.rs:
+C:\Users\truon\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\state-0.6.0\src\type_map.rs:
